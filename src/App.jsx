@@ -1,8 +1,8 @@
-import searching from '../src/assets/search.png'
-import sun from '../src/assets/Clearsun.png'
-import cloudy from '../src/assets/cloudy.png'
-import  air from '../src/assets/air.png'
-import rain from '../src/assets/Rainey.png'
+import searching from './assets/search.png'
+import sun from './assets/Clearsun.png'
+import cloudy from './assets/cloudy.png'
+import  air from './assets/air.png'
+import rain from './assets/Rainey.png'
 import humunity from "./assets/huminity.png"
 import { useState } from 'react'
 
